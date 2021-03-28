@@ -1,0 +1,14 @@
+{
+    "identifier": "oliveratgithub.SEO",
+    "name": "SEO snippets",
+    "organization": "Oliver Raduner",
+    "categories": ["clips"],
+    "description": "Brings helpful SEO code snippets for your Web App straight into Nova!",
+    "keywords": ["html", "xml", "google", "seo", "sitemap", "search"],
+    "homepage": "https://github.com/oliveratgithub/SEO-snippets.novaextension",
+    "repository": "https://github.com/oliveratgithub/SEO-snippets.novaextension",
+    "bugs": "https://github.com/oliveratgithub/SEO-snippets.novaextension/issues",
+    "funding": "https://github.com/sponsors/oliveratgithub",
+    "license": "GNU GPLv3",
+    "version": "1.0.0"
+}
